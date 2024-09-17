@@ -1,0 +1,7 @@
+data: /media/rolexx/Local Disk/gritfeat/computer vision/object localization/datasets
+
+train: images/train
+val: images/test
+
+names:
+    0: "face"

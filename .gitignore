@@ -1,0 +1,4 @@
+datasets/*
+runs/*
+haarcascade_frontalface_default.xml
+yolov8n.pt
